@@ -1,5 +1,5 @@
 {% set name = "transifex-client" %}
-{% set version = "0.14.2" %}
+{% set version = "0.14.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/transifex-client-{{ version }}.tar.gz
-  sha256: b458c56d6d07d2d8269b43d5049026304ed9a34d31bdf655d9e1864807e7555b
+  sha256: b0aa25ebb9516983c56bb060f4a35ad6b0eb3684fd0ed51de3c358f23a8ad62c
 
 build:
   number: 0
