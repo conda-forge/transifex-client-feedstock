@@ -3,11 +3,13 @@ About transifex-client
 
 Home: https://www.transifex.com
 
-Package license: GPL-2.0
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/transifex-client-feedstock/blob/master/LICENSE.txt)
 
 Summary: A command line interface for Transifex
+
+Development: https://github.com/transifex/transifex-client
 
 Current build status
 ====================
