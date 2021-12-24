@@ -3,11 +3,13 @@ About transifex-client
 
 Home: https://www.transifex.com
 
-Package license: GPL-2.0
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/transifex-client-feedstock/blob/master/LICENSE.txt)
 
 Summary: A command line interface for Transifex
+
+Development: https://github.com/transifex/transifex-client
 
 Current build status
 ====================
@@ -55,7 +57,8 @@ conda search transifex-client --channel conda-forge
 About conda-forge
 =================
 
-[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+[![Powered by
+NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://numfocus.org)
 
 conda-forge is a community-led conda channel of installable packages.
 In order to provide high-quality builds, the process has been automated into the

@@ -1,5 +1,5 @@
 {% set name = "transifex-client" %}
-{% set version = "0.14.3" %}
+{% set version = "0.14.4" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/transifex-client-{{ version }}.tar.gz
-  sha256: b0aa25ebb9516983c56bb060f4a35ad6b0eb3684fd0ed51de3c358f23a8ad62c
+  sha256: 11dc95cefe90ebf0cef3749c8c7d85b9d389c05bd0e3389bf117685df562bd5c
 
 build:
   number: 0
@@ -41,8 +41,9 @@ test:
 
 about:
   home: https://www.transifex.com
+  dev_url: https://github.com/transifex/transifex-client
   summary: A command line interface for Transifex
-  license: GPL-2.0
+  license: GPL-2.0-or-later
   license_file: LICENSE
 
 extra:
