@@ -41,8 +41,9 @@ test:
 
 about:
   home: https://www.transifex.com
+  dev_url: https://github.com/transifex/transifex-client
   summary: A command line interface for Transifex
-  license: GPL-2.0
+  license: GPL-2.0-or-later
   license_file: LICENSE
 
 extra:
